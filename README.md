@@ -9,5 +9,6 @@ ML Night School with [Coding Everybody](https://opentutorials.org/module/4916/28
 
 [Progress table](https://yah.ac/ml)
 
-<Resources>
-  * [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* Resources <br>
+[Teachable Machine](https://teachablemachine.withgoogle.com/)<br>
+[ml with TM](https://ml-app.yah.ac/) 
